@@ -1,1 +1,0 @@
-# SounderGrad-React-Placement-Test
